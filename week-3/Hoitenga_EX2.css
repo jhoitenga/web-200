@@ -48,7 +48,7 @@ a:hover {
 }
 
 a:visited {
-    color: #8312ac;
+    background-color: #8312ac;
     text-decoration: dotted;
 }
 
