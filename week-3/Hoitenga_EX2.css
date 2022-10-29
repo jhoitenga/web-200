@@ -41,9 +41,9 @@ a{
 }
 
 a:hover {
-    background-color: #665544;
+    color: #665544;
 }
 
 a:visted {
-    background-color: #445566;
+    color: #445566;
 }
