@@ -47,7 +47,7 @@ a:hover {
     text-decoration: underline;
 }
 
-address a:visted {
+a:visited {
     color: #8312ac;
     text-decoration: dotted;
 }
