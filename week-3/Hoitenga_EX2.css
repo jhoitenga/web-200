@@ -46,7 +46,8 @@ a:hover {
 }
 
 a:visted {
-    color: #8312ac;
+    background-color: #8312ac;
+    text-decoration: dotted;
 }
 
 sentence {
