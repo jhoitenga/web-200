@@ -50,10 +50,10 @@ a:visted {
     text-decoration: dotted;
 }
 
-sentence {
+.sentence {
     font-style: italic;
 }
 
-intro {
+.intro {
     text-indent: .2em;
 }
