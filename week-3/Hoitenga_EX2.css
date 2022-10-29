@@ -40,10 +40,10 @@ a{
     text-decoration: none;
 }
 
-input.submit:hover {
+a:hover {
     background-color: #665544;
 }
 
-input.submit:visted {
+a:visted {
     background-color: #445566;
 }
