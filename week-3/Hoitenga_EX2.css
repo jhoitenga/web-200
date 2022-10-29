@@ -16,10 +16,14 @@ h1{
     word-spacing: .5em;
     margin: 0;
     text-align: center;
-
 }
 
-h1{
+h2{
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-weight: 500;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    margin: 0;
+    text-align: left;
+    padding-top: 15px;
 }
