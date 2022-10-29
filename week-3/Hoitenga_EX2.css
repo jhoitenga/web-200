@@ -48,7 +48,7 @@ a:hover {
 }
 
 a:visted {
-    background-color: #8312ac;
+    color: #8312ac;
     text-decoration: dotted;
 }
 
