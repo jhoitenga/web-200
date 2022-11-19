@@ -34,6 +34,7 @@ h3 {
     width: 100%;
     margin-top: 60%;
     margin-bottom: 20px;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
 }
 
 ul {
@@ -42,7 +43,6 @@ ul {
 
 .btmr {
     float: right;
-    font-family: 'Oswald', Verdana, Arial, sans-serif;
 }
 
 a {
