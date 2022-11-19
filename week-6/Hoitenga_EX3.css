@@ -8,42 +8,36 @@ h3 {
     font-weight: 500;
 }
 
-.left {
+#left {
     float: left;
     width: 45%;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-weight: 300;
-    display: inline-block;
-
-}
-
-.right {
-    font-family: 'Oswald', Verdana, Arial, sans-serif;
-    font-weight: 300;
-    margin-left: 50%;
-    float: right;
-    width: 45%;
-}
-
-.last {
-    width: 100%;
-    margin-top: 60%;
-    margin-bottom: 20px;
-}
-
-ol {
     border: 1px red solid;
     border-radius: 15px;
     list-style-position: inside;
     padding: 10px;
 }
 
-ul {
+#right {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 300;
+    float: right;
+    width: 45%;
     border: 1px red dashed;
     border-radius: 15px;
-    padding: 10px;
-    list-style-type: upper-roman;
     list-style-position: inside;
+    padding: 10px;
+}
+
+#bottom {
+    width: 100%;
+    margin-top: 60%;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: upper-roman;
 }
 
 .btmr {
