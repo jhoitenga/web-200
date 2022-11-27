@@ -23,6 +23,13 @@
     color: rgba(185, 63, 8);
   }
 
+  h3 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: rgba(185, 63, 8);
+  }
+
   img {
     width: 400px;
     height: 350px;
@@ -31,8 +38,7 @@
     font-weight: 400;
   }
 
-  h3 {
-    text-align: center;
+  .gallery-title {
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     color: rgba(185, 63, 8);
@@ -45,6 +51,8 @@
   }
 
   figcaption {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
     font-style: italic;
     font-size: .75em;
     color: rgba(185, 63, 8);
