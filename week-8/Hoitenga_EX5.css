@@ -14,13 +14,13 @@ h1 {
     font-weight: 400;
 }
 
-navbar {
+#navbar {
     overflow: hidden;
     background-color: #4F3674;
     border-bottom: solid 15px #D6A800;
 }
 
-navbar a {
+#navbar a {
     float: left;
     display: block;
     color: white;
@@ -29,7 +29,7 @@ navbar a {
     text-decoration: none;
 }
 
-navbar a:hover {
+#navbar a:hover {
     background-color: #D6A800;
     color: #4F3674;
 }
@@ -47,18 +47,18 @@ navbar a:hover {
     width: 50%;
 }
 
-.card title {
+.card-title {
     text-align: center;
     font-size: 2em;
     color: #4F3674;
     font-weight: 400;
 }
 
-.card content {
+.card-content {
     padding: 2px 16px;
 }
 
-.card :hover {
+.card-content:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
